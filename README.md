@@ -71,3 +71,22 @@ Identify profitable regions and customer segments.
 
 Monitor performance using automated, real-time dashboards.
 
+Insights
+
+Total Sales: 118.73M | Gross Sales: 127.93M
+
+Most sales come from discounts (Medium & High bands).
+
+No-discount sales are very low, showing customers respond strongly to offers.
+
+Top countries: USA, Canada, France.
+
+Lowest among major markets: Mexico.
+
+Most profitable product: Paseo.
+
+Least profitable: Carretera.
+
+Sales trend is seasonal with peaks in mid and late 2014.
+
+Some segments are loss-making (e.g., Enterprise in France).
